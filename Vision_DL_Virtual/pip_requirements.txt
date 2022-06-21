@@ -4,7 +4,7 @@
 #
 pip==18.1
 matplotlib==2.2.2
-numpy==1.15.0
+numpy==1.22.0
 scipy==1.1.0
 pandas==0.23.4
 milk==0.6.1
